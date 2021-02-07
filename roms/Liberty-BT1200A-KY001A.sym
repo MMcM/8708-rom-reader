@@ -1,0 +1,7 @@
+cpu 8048
+
+code 0x0000 RSTINT
+code 0x0003 EXTINT
+code 0x0007 TIMINT
+code 0x00D9 RSTINT1
+code 0x00C3 EXTINT1
